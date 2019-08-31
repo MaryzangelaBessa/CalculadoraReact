@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker'
 
 ReactDOM.render(
   <div>
-    <h1>Caluladora</h1>
+    <h1>Calculadora</h1>
     <Calulator />
   </div>,
   document.getElementById('root'),
